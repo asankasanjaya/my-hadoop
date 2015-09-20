@@ -1,4 +1,3 @@
 Manifest-Version: 1.0
-Class-Path: src
 Main-Class: com.wordcount.WordCount
 
